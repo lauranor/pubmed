@@ -1,0 +1,18 @@
+{
+  "id": 28036335,
+  "title": "PubMedPrediction of Left Ventricular Remodeling after a Myocardial Infarction: Role of Myocardial Deformation: A Systematic Review and Meta-Analysis.",
+  "keywords": "",
+  "abstract": "Left ventricular (LV) adverse or reverse remodeling after ST-segment elevation myocardial infarction (MI) is the best outcome to assess the benefit of revascularization. Speckle tracking echocardiography (STE) may accurately identify early deformation impairment, while also being predictive of LV remodeling during follow-up. This systematic analysis aimed to provide a comprehensive review of current findings on STE as a predictor of LV remodeling after MI.PubMed databases were searched through December 2014 to identify studies in adults targeting the association between LV remodeling and STE. Meta-regression was performed for longitudinal analysis.A total of 23 prospective studies (3066 patients) were found eligible. Eleven studies reported an association between STE and adverse remodeling and twelve studies with reverse remodeling. Using peak systolic longitudinal strain, the most accurate cut-off to predict adverse remodeling and reverse remodeling ranged from -12.8% to -10.2% and from -13.7% to -9.5%, respectively. In smaller studies, assessment of circumferential strain and torsion showed additive value in predicting remodeling. Meta-regression analysis revealed that longitudinal STE was associated with adverse remodeling (pooled univariable OR = 1.27, 1.17-1.38, p<0.001; pooled multivariable OR = 1.38, 1.13-1.70, p = 0.002) while pooled ORs of longitudinal STE only tended to predict reverse remodeling (pooled OR = 0.75, 0.54-1.06, p = 0.09).This systematic review suggests that STE is associated with changes in LV volume or function regardless of underlying mechanisms and deformation direction. Meta-regression demonstrates a strong association between peak longitudinal systolic strain and adverse remodeling. Added STE predictive value over other clinical, biological and imaging variables remains to be proven.",
+  "authors": [
+    "Huttin O",
+    "Coiro S",
+    "Selton-Suty C",
+    "Juillière Y",
+    "Donal E",
+    "Magne J",
+    "Sadoul N",
+    "Zannad F",
+    "Rossignol P",
+    "Girerd N"
+  ]
+}
